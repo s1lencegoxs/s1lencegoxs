@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"/>
 
-<h1 align="center">S1lence profile</h1>
-<h3 align="center">Eu não escolhi a vida weeb, a vida weeb me escolheu</h3>
+<h1 align="center">Hello :)</h1>
+<h3 align="center">Sempre a frente...</h3>
 <h3 align="center">
   <img src="https://flagcdn.com/w40/pt.png" srcset="https://flagcdn.com/w80/pt.png 2x" width="40" alt="Portuguese">
   <img src="https://flagcdn.com/w40/gb.png" srcset="https://flagcdn.com/w80/gb.png 2x" width="40" alt="English">
