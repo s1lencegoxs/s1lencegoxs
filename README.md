@@ -38,6 +38,18 @@
   </a>
 </div>
 
+### 🚀 Criptomoedas & Mineração em Cloud
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bitcoin,ethereum,linux,aws,gcp,azure" alt="Cripto Skills">
+  </a>
+</div>
+
+- 🪙 Experiência com **Bitcoin (BTC), Ethereum (ETH), Monero (XMR)** e outras altcoins  
+- ⚡ Configuração e otimização de **mineração em cloud (AWS, GCP, Azure)**  
+- 🏗️ Implementação de rigs de mineração com **HiveOS, NiceHash e Minerstat**  
+- 🔒 Segurança e anonimato em transações blockchain  
+
 ---
 
 ## 🛠️ Ferramentas
